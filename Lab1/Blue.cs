@@ -17,7 +17,11 @@
             bool answer = false;
 
             // code here
+            Console.WriteLine(d > 0);
 
+            Console.WriteLine(d < 0);
+
+            Console.WriteLine(d < 0);
             // end
 
             return answer;
